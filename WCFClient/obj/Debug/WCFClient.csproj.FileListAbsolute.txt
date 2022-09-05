@@ -1,0 +1,8 @@
+C:\Users\Dieu1\source\repos\WCF\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Dieu1\source\repos\WCF\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Dieu1\source\repos\WCF\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Dieu1\source\repos\WCF\WCFClient\obj\Debug\WCFClient.csproj.AssemblyReference.cache
+C:\Users\Dieu1\source\repos\WCF\WCFClient\obj\Debug\WCFClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dieu1\source\repos\WCF\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+C:\Users\Dieu1\source\repos\WCF\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Dieu1\source\repos\WCF\WCFClient\obj\Debug\WCFClient.pdb
